@@ -22,4 +22,4 @@ def vowel_consonant(sentance):
     print(f"Количество согласных в строке: {len(consonants)}")
 
 
-vowel_consonant("Привет всем, друзья!")
+vowel_consonant()
