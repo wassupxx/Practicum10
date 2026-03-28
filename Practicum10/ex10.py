@@ -19,4 +19,4 @@ def row(A, B):
                 break
 
 
-row(12, 105)
+row()
